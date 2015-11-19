@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Christmas Lights</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="listView">List</string>
+    <string name="mapView">Map</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="street">Choose a Street</string>
+    <string name="action_map">Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_dunsmuir_way">DunsmuirWay</string>
+    <string name="title_activity_hedge_road">HedgeRoad</string>
+    <string name="title_activity_little_bay_road">LittleBayRoad</string>
+    <string name="title_activity_oakhurst_pl">OakhurstPL</string>
+    <string name="title_activity_greenwood_drive">GreenwoodDrive</string>
+    <string name="title_activity_sheridan_drive">SheridanDrive</string>
+    <string name="title_activity_launch_screen">LaunchScreen</string>
+</resources>
